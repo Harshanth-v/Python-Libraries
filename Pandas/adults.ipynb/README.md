@@ -143,10 +143,14 @@ By completing this project, you will:
 └── 📄 Pandas 2nd Project Questions.pdf
 
 ## 🌟 Author
-👤	Harshanth V
-✉️	Data Analytics Enthusiast
-🐍	Python, Pandas, SQL Practitioner
-🔗	GitHub Profile
+
+| 👤  | Harshanth V |
+|-----|-------------|
+| ✉️  | Data Analytics Enthusiast |
+| 🐍  | Python, Pandas, SQL Practitioner |
+| 🔗  | [GitHub Profile](#) |
+
+---
 
 ## 💬 Final Note
 
