@@ -132,6 +132,7 @@ By completing this project, you will:
    pip install pandas matplotlib seaborn
 
 3.Step through each notebook cell to follow data cleaning and analysis.
+
 4.Experiment with queries or add new visualizations to extend insights.
 
 ## 📁 Repository Structure
@@ -153,3 +154,5 @@ By completing this project, you will:
 Pandas helps us cultivate it into insight." 🌱🐼
 
 Explore. Analyze. Visualize. — Keep learning and building with Pandas!
+
+---
