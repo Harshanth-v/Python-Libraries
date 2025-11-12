@@ -135,12 +135,7 @@ By completing this project, you will:
 
 4.Experiment with queries or add new visualizations to extend insights.
 
-## 📁 Repository Structure
-📦 Pandas-Adults-Project
-├── 📄 Adults.ipynb
-├── 📄 adult.csv
-├── 📄 README.md
-└── 📄 Pandas 2nd Project Questions.pdf
+---
 
 ## 🌟 Author
 
